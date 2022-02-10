@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://linkedin.com/in/sandraashipala> <https://github.com/sajustsmile> */
 /*show/ hide hidden menu*/
 const navMenu = document.getElementById('nav-menu'),
     navToggle = document.getElementById('nav-toggle'),
