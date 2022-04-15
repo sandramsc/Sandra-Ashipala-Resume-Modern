@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">Portfolio WebApp</h1>
+  <h1 align="center">CV WebApp</h1>
  <h2 2 align="center">
     100DaysOfCode project_nine
     <br />
