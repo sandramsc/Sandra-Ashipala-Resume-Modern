@@ -6,7 +6,7 @@
     </h2>
     
    ## View App
-    https://sandramsc.github.io/Sandra-Ashipala-Resume-Modern/
+    https://bit.ly/sandraaportfolio
     
    ## Sample Example
    https://user-images.githubusercontent.com/19821445/138116014-ca15200c-432c-417d-b7d1-c82b9bfd3262.mp4
