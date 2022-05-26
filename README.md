@@ -5,8 +5,8 @@
     <br />
     </h2>
     
-   ## View App
-    https://bit.ly/sandraaportfolio
+   ## Résumé 
+   [View Résumé] (https://bit.ly/sandraaportfolio)
     
    ## Sample Example
    https://user-images.githubusercontent.com/19821445/138116014-ca15200c-432c-417d-b7d1-c82b9bfd3262.mp4
